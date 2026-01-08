@@ -402,7 +402,7 @@
 **James**: Excellent! A few final reminders:
 - Daily standups at 9:30 AM every morning
 - Mid-sprint knowledge sharing on Thursday next week
-- Sprint Review on Friday, January 29th
+- Sprint Review on Tuesday, January 28th
 - Sprint Retrospective immediately following the review
 
 **James**: Any final questions? [Pauses] Alright team, let's have a great sprint. Our stakeholders are counting on us to deliver this automation capability for the Trinus Demo. I believe in this team!
