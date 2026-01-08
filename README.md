@@ -313,50 +313,50 @@ Each link below leads to a key Agile artifact or ceremony record, ensuring full 
 TRINUS_AUTOMATION_EPIC_Rev1.md
 │
 [MASTER_QA1] Automation Suite - Technical Documentation/
-        ├── <a href="[MASTER_QA1] Automation Suite - Technical Documentation/ARCHITECTURE_MASTER_QA_SUITE_Rev1.md">ARCHITECTURE_MASTER_QA_SUITE_Rev1.md</a>
-        └── <a href="[MASTER_QA1] Automation Suite - Technical Documentation/README_MASTER_QA_SUITE_Rev1.md">README_MASTER_QA_SUITE_Rev1.md</a>
+    ├── [ARCHITECTURE_MASTER_QA_SUITE_Rev1.md](./[MASTER_QA1]%20Automation%20Suite%20-%20Technical%20Documentation/ARCHITECTURE_MASTER_QA_SUITE_Rev1.md)
+    └── [README_MASTER_QA_SUITE_Rev1.md](./[MASTER_QA1]%20Automation%20Suite%20-%20Technical%20Documentation/README_MASTER_QA_SUITE_Rev1.md)
 │
 [TRINUS-E1] Trinus Epic - Agile Documentation/
-        ├── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/AGILE_SCRUM_MEETINGS_Rev1.md">AGILE_SCRUM_MEETINGS_Rev1.md</a>
-        ├── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/SYMBOLIC_AGILE_TEAM_ROLES_Rev1.md">SYMBOLIC_AGILE_TEAM_ROLES_Rev1.md</a>
-        ├── Trinus Epic - Agile Journey/
-        │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Journey/Agile_Journey_Rev1.md">Agile_Journey_Rev1.md</a>
-        └── Trinus Epic - Agile Sessions per Sprint (1-5)/
-                ├── TRINUS-E1_Sprint_01/
-                │   ├── TRINUS-E1_Sprint_01_Planning/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_01/TRINUS-E1_Sprint_01_Planning/TRINUS-E1_Sprint_01-Planning.md">TRINUS-E1_Sprint_01-Planning.md</a>
-                │   ├── TRINUS-E1_Sprint_01_Retro/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_01/TRINUS-E1_Sprint_01_Retro/TRINUS-E1_Sprint_01-Retro.md">TRINUS-E1_Sprint_01-Retro.md</a>
-                │   └── TRINUS-E1_Sprint_01_Triage/
-                │         └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_01/TRINUS-E1_Sprint_01_Triage/TRINUS-E1_Sprint_01-Triage.md">TRINUS-E1_Sprint_01-Triage.md</a>
-                ├── TRINUS-E1_Sprint_02/
-                │   ├── TRINUS-E1_Sprint_02_Planning/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_02/TRINUS-E1_Sprint_02_Planning/TRINUS-E1_Sprint_02-Planning.md">TRINUS-E1_Sprint_02-Planning.md</a>
-                │   ├── TRINUS-E1_Sprint_02_Retro/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_02/TRINUS-E1_Sprint_02_Retro/TRINUS-E1_Sprint_02-Retro.md">TRINUS-E1_Sprint_02-Retro.md</a>
-                │   └── TRINUS-E1_Sprint_02_Triage/
-                │         └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_02/TRINUS-E1_Sprint_02_Triage/TRINUS-E1_Sprint_02-Triage.md">TRINUS-E1_Sprint_02-Triage.md</a>
-                ├── TRINUS-E1_Sprint_03/
-                │   ├── TRINUS-E1_Sprint_03_Planning/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_03/TRINUS-E1_Sprint_03_Planning/TRINUS-E1_Sprint_03-Planning.md">TRINUS-E1_Sprint_03-Planning.md</a>
-                │   ├── TRINUS-E1_Sprint_03_Retro/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_03/TRINUS-E1_Sprint_03_Retro/TRINUS-E1_Sprint_03-Retro.md">TRINUS-E1_Sprint_03-Retro.md</a>
-                │   └── TRINUS-E1_Sprint_03_Triage/
-                │         └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_03/TRINUS-E1_Sprint_03_Triage/TRINUS-E1_Sprint_03-Triage.md">TRINUS-E1_Sprint_03-Triage.md</a>
-                ├── TRINUS-E1_Sprint_04/
-                │   ├── TRINUS-E1_Sprint_04_Planning/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_04/TRINUS-E1_Sprint_04_Planning/TRINUS-E1_Sprint_04-Planning.md">TRINUS-E1_Sprint_04-Planning.md</a>
-                │   ├── TRINUS-E1_Sprint_04_Retro/
-                │   │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_04/TRINUS-E1_Sprint_04_Retro/TRINUS-E1_Sprint_04-Retro.md">TRINUS-E1_Sprint_04-Retro.md</a>
-                │   └── TRINUS-E1_Sprint_04_Triage/
-                │         └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_04/TRINUS-E1_Sprint_04_Triage/TRINUS-E1_Sprint_04-Triage.md">TRINUS-E1_Sprint_04-Triage.md</a>
-                └── TRINUS-E1_Sprint_05/
-                        ├── TRINUS-E1_Sprint_05_Planning/
-                        │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_05/TRINUS-E1_Sprint_05_Planning/TRINUS-E1_Sprint_05-Planning.md">TRINUS-E1_Sprint_05-Planning.md</a>
-                        ├── TRINUS-E1_Sprint_05_Retro/
-                        │     └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_05/TRINUS-E1_Sprint_05_Retro/TRINUS-E1_Sprint_05-Retro.md">TRINUS-E1_Sprint_05-Retro.md</a>
-                        └── TRINUS-E1_Sprint_05_Triage/
-                                    └── <a href="[TRINUS-E1] Trinus Epic - Agile Documentation/Trinus Epic - Agile Sessions per Sprint (1-5)/TRINUS-E1_Sprint_05/TRINUS-E1_Sprint_05_Triage/TRINUS-E1_Sprint_05-Triage.md">TRINUS-E1_Sprint_05-Triage.md</a>
+    ├── [AGILE_SCRUM_MEETINGS_Rev1.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/AGILE_SCRUM_MEETINGS_Rev1.md)
+    ├── [SYMBOLIC_AGILE_TEAM_ROLES_Rev1.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/SYMBOLIC_AGILE_TEAM_ROLES_Rev1.md)
+    ├── Trinus Epic - Agile Journey/
+    │     └── [Agile_Journey_Rev1.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Journey/Agile_Journey_Rev1.md)
+    └── Trinus Epic - Agile Sessions per Sprint (1-5)/
+        ├── TRINUS-E1_Sprint_01/
+        │   ├── TRINUS-E1_Sprint_01_Planning/
+        │   │     └── [TRINUS-E1_Sprint_01-Planning.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_01/TRINUS-E1_Sprint_01_Planning/TRINUS-E1_Sprint_01-Planning.md)
+        │   ├── TRINUS-E1_Sprint_01_Retro/
+        │   │     └── [TRINUS-E1_Sprint_01-Retro.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_01/TRINUS-E1_Sprint_01_Retro/TRINUS-E1_Sprint_01-Retro.md)
+        │   └── TRINUS-E1_Sprint_01_Triage/
+        │         └── [TRINUS-E1_Sprint_01-Triage.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_01/TRINUS-E1_Sprint_01_Triage/TRINUS-E1_Sprint_01-Triage.md)
+        ├── TRINUS-E1_Sprint_02/
+        │   ├── TRINUS-E1_Sprint_02_Planning/
+        │   │     └── [TRINUS-E1_Sprint_02-Planning.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_02/TRINUS-E1_Sprint_02_Planning/TRINUS-E1_Sprint_02-Planning.md)
+        │   ├── TRINUS-E1_Sprint_02_Retro/
+        │   │     └── [TRINUS-E1_Sprint_02-Retro.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_02/TRINUS-E1_Sprint_02_Retro/TRINUS-E1_Sprint_02-Retro.md)
+        │   └── TRINUS-E1_Sprint_02_Triage/
+        │         └── [TRINUS-E1_Sprint_02-Triage.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_02/TRINUS-E1_Sprint_02_Triage/TRINUS-E1_Sprint_02-Triage.md)
+        ├── TRINUS-E1_Sprint_03/
+        │   ├── TRINUS-E1_Sprint_03_Planning/
+        │   │     └── [TRINUS-E1_Sprint_03-Planning.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_03/TRINUS-E1_Sprint_03_Planning/TRINUS-E1_Sprint_03-Planning.md)
+        │   ├── TRINUS-E1_Sprint_03_Retro/
+        │   │     └── [TRINUS-E1_Sprint_03-Retro.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_03/TRINUS-E1_Sprint_03_Retro/TRINUS-E1_Sprint_03-Retro.md)
+        │   └── TRINUS-E1_Sprint_03_Triage/
+        │         └── [TRINUS-E1_Sprint_03-Triage.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_03/TRINUS-E1_Sprint_03_Triage/TRINUS-E1_Sprint_03-Triage.md)
+        ├── TRINUS-E1_Sprint_04/
+        │   ├── TRINUS-E1_Sprint_04_Planning/
+        │   │     └── [TRINUS-E1_Sprint_04-Planning.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_04/TRINUS-E1_Sprint_04_Planning/TRINUS-E1_Sprint_04-Planning.md)
+        │   ├── TRINUS-E1_Sprint_04_Retro/
+        │   │     └── [TRINUS-E1_Sprint_04-Retro.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_04/TRINUS-E1_Sprint_04_Retro/TRINUS-E1_Sprint_04-Retro.md)
+        │   └── TRINUS-E1_Sprint_04_Triage/
+        │         └── [TRINUS-E1_Sprint_04-Triage.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_04/TRINUS-E1_Sprint_04_Triage/TRINUS-E1_Sprint_04-Triage.md)
+        └── TRINUS-E1_Sprint_05/
+            ├── TRINUS-E1_Sprint_05_Planning/
+            │     └── [TRINUS-E1_Sprint_05-Planning.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_05/TRINUS-E1_Sprint_05_Planning/TRINUS-E1_Sprint_05-Planning.md)
+            ├── TRINUS-E1_Sprint_05_Retro/
+            │     └── [TRINUS-E1_Sprint_05-Retro.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_05/TRINUS-E1_Sprint_05_Retro/TRINUS-E1_Sprint_05-Retro.md)
+            └── TRINUS-E1_Sprint_05_Triage/
+                └── [TRINUS-E1_Sprint_05-Triage.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/Trinus%20Epic%20-%20Agile%20Sessions%20per%20Sprint%20(1-5)/TRINUS-E1_Sprint_05/TRINUS-E1_Sprint_05_Triage/TRINUS-E1_Sprint_05-Triage.md)
 </pre>
 </details>
         </ul>
@@ -399,4 +399,3 @@ All other available Agile/Scrum meetings are acknowledged but are outside the de
 =======
 # TrinusAutomationDemoAgile
 Agile documentation for Trinus Automation Demo
->>>>>>> 1bffe91648def1a742d3c34aa683d3ece94b51bf
