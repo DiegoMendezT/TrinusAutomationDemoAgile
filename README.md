@@ -1,4 +1,3 @@
-
 # Trinus.com Automation Epic [TRINUS-E1]
 
 **Executive Overview and Agile Context**
@@ -397,3 +396,7 @@ All other available Agile/Scrum meetings are acknowledged but are outside the de
 
 
 
+=======
+# TrinusAutomationDemoAgile
+Agile documentation for Trinus Automation Demo
+>>>>>>> 1bffe91648def1a742d3c34aa683d3ece94b51bf
