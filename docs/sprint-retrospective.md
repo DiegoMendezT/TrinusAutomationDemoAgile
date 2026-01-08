@@ -17,7 +17,7 @@ The Sprint Retrospective is a meeting where the team reflects on their process a
 The retrospective helps the team answer:
 
 1. **What went well?** - Identify successes to repeat
-2. **What didn't go well?** - Recognize issues to address  
+2. **What didn't go well?** - Recognize issues to address
 3. **What can we improve?** - Create actionable changes
 
 ## Sprint Retrospective Agenda
@@ -237,8 +237,8 @@ A successful retrospective includes:
 ## Additional Resources
 
 - **Books**: "Agile Retrospectives" by Esther Derby and Diana Larsen
-- **Websites**: Retromat.org for format ideas
-- **Tools**: Miro, Mural, Retrium, FunRetro
+- **Websites**: [Retromat.org](https://retromat.org) for format ideas
+- **Tools**: [Miro](https://miro.com), [Mural](https://mural.co), [Retrium](https://retrium.com), [FunRetro](https://funretro.io)
 - **Techniques**: 5 Whys, Fishbone Diagram, Force Field Analysis
 
 ---
