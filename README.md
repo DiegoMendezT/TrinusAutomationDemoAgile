@@ -14,9 +14,6 @@ Welcome to the Trinus Automation Demo Agile documentation! This comprehensive gu
 - [**Sprint Review**](docs/sprint-review.md) - Demonstrate completed work and gather feedback
 - [**Sprint Retrospective**](docs/sprint-retrospective.md) - Continuous improvement and team reflection
 
-### Practical Examples
-- [**Sprint Planning Meeting Transcript**](docs/sprint-planning-meeting-transcript.md) - Full meeting transcript showing team discussion, voting, and commitment for Trinus Demo release
-
 ## 🎯 Quick Navigation
 
 | Topic | Description |
@@ -27,7 +24,6 @@ Welcome to the Trinus Automation Demo Agile documentation! This comprehensive gu
 | [Daily Standup](docs/daily-standup.md) | Run efficient daily meetings |
 | [Sprint Review](docs/sprint-review.md) | Demo work and gather feedback |
 | [Sprint Retrospective](docs/sprint-retrospective.md) | Reflect and improve as a team |
-| [Sprint Planning Meeting Transcript](docs/sprint-planning-meeting-transcript.md) | Real-world meeting example with voting |
 
 ## 🚀 What You'll Learn
 
