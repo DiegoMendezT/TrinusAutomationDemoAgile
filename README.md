@@ -362,7 +362,8 @@ Each link below leads to a key Agile artifact or ceremony record, ensuring full 
 To keep the Trinus.com Automation Demo package lean and focused, only the necessary Scrum ceremonies are included: <br>
 • <strong>Sprint Planning</strong> (as the start-of-sprint ceremony) <br>
 • <strong>Sprint Retrospective</strong> (assuming all items delivered in time for all sprints) <br>
-All other available Agile/Scrum meetings are acknowledged but are outside the demo scope. Visit [AGILE_SCRUM_MEETINGS.md](AGILE_SCRUM_MEETINGS.md)
+All other available Agile/Scrum meetings are acknowledged but are outside the demo scope. Visit [AGILE_SCRUM_MEETINGS.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/AGILE_SCRUM_MEETINGS.md)
+
 
 ---
 
@@ -377,7 +378,7 @@ All other available Agile/Scrum meetings are acknowledged but are outside the de
 
 **Scrum Roles in this Epic** 
     <li><strong>Team Roles Description</strong><br>
-        Defines Agile Roles (Product Owner, Scrum Master, Developers, Stakeholders, ...), and responsibilities around the TRINUS-E1 Epic: <a href="Symbolic_Agile_Team_Roles.md">Symbolic_Agile_Team_Roles.md</a>
+        Defines Agile Roles (Product Owner, Scrum Master, Developers, Stakeholders, ...), and responsibilities around the TRINUS-E1 Epic: [SYMBOLIC_AGILE_TEAM_ROLES.md](./[TRINUS-E1]%20Trinus%20Epic%20-%20Agile%20Documentation/SYMBOLIC_AGILE_TEAM_ROLES.md)
     </li>
 </div>
 
